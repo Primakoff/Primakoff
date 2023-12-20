@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in nodes and crypto.
 - 🌱 I’m currently learning all :)
-- 💞️ I’m looking to collaborate on work in crypto comunity 
+- ✨ I’m looking to collaborate on work in crypto comunity 
 - 📫 How to reach me https://twitter.com/Primak_v777 / Telegram : @primak_v777
 
 <!---
