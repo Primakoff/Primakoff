@@ -11,4 +11,19 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=wh)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📂 Projects
+
+- [SQL Practice](https://github.com/Primakoff/sql-practice) – My personal SQL training archive  
+- [Data Cleaning & Analysis](#) – Pandas and Jupyter Notebooks (coming soon)  
+- [Dashboards & Visualization](#) – Interactive dashboards (coming soon)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primakoff&show_icons=true&theme=tokyonight)
