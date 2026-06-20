@@ -25,3 +25,17 @@
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Primakoff&show_icons=true&theme=tokyonight)
+
+graph TD
+    A[📩 Client Task / Idea] -->|Req Analysis| B(🧠 Architecture Design)
+    B -->|Writing Prompts| C(🤖 Claude AI)
+    C -->|Clean Code Generation| D[💻 PyCharm IDE]
+    D -->|Run & Local Tests| E{Code works flawlessly?}
+    E -->|No, debugging needed| C
+    E -->|Yes, all good!| F[📂 Git Commit & Push]
+    F -->|Deployment & Delivery| G[🚀 Live Solution Delivered]
+
+    style A fill:#f9f,stroke:#333,stroke-width:1px
+    style C fill:#fdb,stroke:#333,stroke-width:2px
+    style D fill:#bbf,stroke:#333,stroke-width:1px
+    style G fill:#bfb,stroke:#333,stroke-width:2px
