@@ -45,5 +45,3 @@
 - Email: fromgreensky777@gmail.com
 
 <p align="center"><i>Always learning, always building. 🚀</i></p>
-
-### 📈 Activity Graph
