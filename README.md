@@ -51,5 +51,3 @@
 <p align="center"><i>Always learning, always building. 🚀</i></p>
 
 ### 📈 Activity Graph
-
-[![Primakoff's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Primakoff&theme=tokyo-night&hide_border=true)](https://github.com/Primakoff)
