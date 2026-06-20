@@ -41,8 +41,8 @@
 
 ### 📫 Connect
 
-- Telegram: [@your_handle](https://t.me/your_handle)
-- Email: your@email.com
+- Telegram: [@Primak_v777](https://t.me/@Primak_v777)
+- Email: fromgreensky777@gmail.com
 
 <p align="center"><i>Always learning, always building. 🚀</i></p>
 
