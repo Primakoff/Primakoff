@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vana 👋</h1>
+<h1 align="center">Hi, I'm Vanya 👋</h1>
 <h3 align="center">Python developer focused on web scraping & data extraction</h3>
 
 <p align="center">
